@@ -1,6 +1,6 @@
 # AMStatBot
 
-### Chat Bot API Repository https://github.com/anandhamurthy/AMStatBot-API
+### Chat Bot API Repository - https://github.com/anandhamurthy/AMStatBot-API
 ### Stock News API Repository - https://github.com/anandhamurthy/StockNews-API
 ### Graph API Repository - https://github.com/anandhamurthy/Stock-Graph-API
 
